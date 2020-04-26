@@ -2,9 +2,7 @@
 title: "EDA_openList"
 author: "Arushi Sharma"
 date: "4/10/2020"
-output: 
-  html_document:
-    keep_md: true
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -246,7 +244,7 @@ summary(testData)
 ```{r}
 
 #classifier_types : glm, svm, rf(random forest), svm_oneclass
-classifier_type <- "svm_oneclass"
+classifier_type <- "glm"
 if (classifier_type=="glm"){
   classifier <- glm(death ~ age+sex+has_covid_symptoms+days_to_firstoccurence,
                 data=trainingData, family=binomial(link="logit"))
