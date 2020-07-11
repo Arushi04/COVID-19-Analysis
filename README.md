@@ -23,7 +23,7 @@ prediction is to facilitate the healthcare establishments to prioritize patients
 
 Most Affected Countries:
 
-<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/wordcloud.png" width="450" height="300">
+<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/wordcloud.png" width="550" height="500">
 
 
 Prediction of Progress of COVID-19 in USA using SIR Model:
@@ -35,6 +35,6 @@ Prediction of Fatality of COVID-19 Patients:
 
 <img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/models.png" width="450" height="300">
 
-<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/model_performance.png" width="450" height="300">
+<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/model_performance.png" width="600" height="300">
 
 
