@@ -21,15 +21,20 @@ prediction is to facilitate the healthcare establishments to prioritize patients
 
 ### Results
 
-Prediction of Progress of COVID-19 in USAS using SIR Model:
+Most Affected Countries:
 
-<img src="https://github.com/Arushi04/ImageClassification/blob/master/images/train_loss.png" width="450" height="300">
+<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/wordcloud.png" width="450" height="300">
+
+
+Prediction of Progress of COVID-19 in USA using SIR Model:
+
+<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/sir.png" width="450" height="300">
 
 
 Prediction of Fatality of COVID-19 Patients:
 
-<img src="https://github.com/Arushi04/ImageClassification/blob/master/images/train_loss.png" width="450" height="300">
+<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/models.png" width="450" height="300">
 
-<img src="https://github.com/Arushi04/ImageClassification/blob/master/images/train_loss.png" width="450" height="300">
+<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/model_performance.png" width="450" height="300">
 
 
