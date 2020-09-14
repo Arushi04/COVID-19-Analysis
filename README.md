@@ -1,6 +1,6 @@
 # COVID-19-Analysis
 
-<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/corona.png" width="550" height="500">
+<img src="https://github.com/Arushi04/COVID-19-Analysis/blob/master/images/corona.png" width="800" height="300">
 
 ### Description :
 This project aims to perform exploratory and confirmatory data analysis to explore relationships between different underlying factors related to the pandemic.
